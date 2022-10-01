@@ -1,5 +1,5 @@
 ### Welcome  👋
-yuju github 👀
+I’m Yuju An , an Web Front-End Develpoer 
 <!--
 **yujuann/yujuann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
