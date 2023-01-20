@@ -1,6 +1,8 @@
 ### Welcome  👋
 I’m Yuju An , an Web Front-End Develpoer 
 <!--
+
+
 **yujuann/yujuann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,6 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Yuju’s GitHub stats](https://github-readme-stats.vercel.app/api?username=yujuann&show_icons=true&theme=cobalt)](https://github.com/yujuann/github-readme-stats)
 <div align=“center”>
 <img  width=“50%” src="https://mblogthumb-phinf.pstatic.net/MjAxODA5MDNfMjQg/MDAxNTM1OTYxNjE4MTcx.tXtCxPI0-IZ4evYF5BjHsVetie8ruIIA_1Z_FqASvzQg.O5vhRTIAdj3S-s8ENoCvNQ8wX7E29YsgTiGGryc3aRog.GIF.hsb7827/%EC%9C%84%EB%B2%A0%EC%96%B4%EB%B2%A0%EC%96%B4%EC%8A%A4_%EC%A7%A4_WeBareBears_meme_%2853%29.gif?type=w800" />
 </div>
